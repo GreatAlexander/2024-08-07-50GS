@@ -14,7 +14,7 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 ## Venue, Date, Time
 
-In room G.05 in 50 George Square at 14:00 Wednesday 27nd July 2024.
+In room G.05 in 50 George Square at 14:00 Wednesday 24th July 2024.
 
 ## Code of Conduct
 
