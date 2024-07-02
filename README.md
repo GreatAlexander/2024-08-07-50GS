@@ -1,6 +1,6 @@
 # CERSE Meeting
 
-Register here: https://lu.ma/00jltzfp
+Register here: [https://lu.ma/00jltzfp](https://lu.ma/00jltzfp)
 
 ## Content
 * [Purpose](#purpose)
