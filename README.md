@@ -14,7 +14,7 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 ## Venue, Date, Time
 
-In TBD <!-- room [G.05](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0227_00_G.05) in 50 George Square--> at 14:00 Wednesday 7th August 2024.
+In TBD room [G.06](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0227_00_G.06) in 50 George Square--> at 14:00 Wednesday 7th August 2024.
 
 ## Code of Conduct
 
