@@ -37,9 +37,9 @@ This is a provisional timetable.
 |Time  | Speaker      | Title |
 |------| ------| ------|
 |14:00| Chris Halcrow |Welcome|
-|14:10| Nick Radcliffe |Test-Driven Data Analysis|
+|14:10| Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |Test-Driven Data Analysis|
 |14:30|  ||
-|14:45| Mario Antonioletti |Publishing data at the UoE|
+|14:45| Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |Publishing data at the UoE|
 
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
