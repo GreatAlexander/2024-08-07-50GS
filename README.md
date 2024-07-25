@@ -14,7 +14,7 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 ## Venue, Date, Time
 
-In room [G.06](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0227_00_G.06) in 50 George Square at 14:00 Wednesday 7th August 2024.
+In room [G.06](https://www.ed.ac.uk/timetabling-examinations/timetabling/room-bookings/bookable-rooms3/room/0227_00_G.06) in 50 George Square at 14:00-16:00 Wednesday 7th August 2024.
 
 ## Code of Conduct
 
@@ -40,6 +40,8 @@ This is a provisional timetable.
 |14:10| Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |Test-Driven Data Analysis|
 |14:30| Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/) |Self-driving vehicle initiative at UoE: Overview and dataset|
 |14:45| Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |Publishing data at the UoE|
+|14:45|  | Refreshments and networking |
 
+Refreshments and networking are optional.
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
