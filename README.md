@@ -34,13 +34,14 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 This is a provisional timetable.
 
-|Time  | Speaker      | Title |
-|------| ------| ------|
-|14:00| Chris Halcrow |Welcome|
-|14:10| Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |Test-Driven Data Analysis|
-|14:30| Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/) |Self-driving vehicle initiative at UoE: Overview and dataset|
-|14:45| Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |Publishing data at the UoE|
-|15:00|  | Refreshments and networking |
+|Time  | Item |
+|------| ------|
+|14:00| Welcome, Chris Halcrow |
+|14:10| Test-Driven Data Analysis, Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |
+|14:30| Self-driving vehicle initiative at UoE: Overview and dataset, Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/) |
+|14:45| Publishing data at the UoE |
+|15:00| Refreshments and networking, Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |
+|16:00| Close |
 
 Refreshments and networking are optional.
 
