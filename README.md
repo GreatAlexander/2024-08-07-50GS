@@ -35,7 +35,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 This is a provisional timetable.
 
 |Time  | Item |
-|------| ------|
+|------|:------ |
 |14:00| Welcome, Chris Halcrow |
 |14:10| Test-Driven Data Analysis, Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |
 |14:30| Self-driving vehicle initiative at UoE: Overview and dataset, Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/) |
