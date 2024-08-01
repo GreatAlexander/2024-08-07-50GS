@@ -1,0 +1,46 @@
+Hi,
+    Apology if you get this message more than once via different
+channels.
+
+Our next face-to-face Community of Edinburgh Research Software
+Engineers (CERSE) meeting will take place at 2pm in room G.06,
+50 George Square on Wednesday 7th August. More details at (add
+an https://) as well as a registration link (please do register
+so we know how many people to expect):
+
+        cerse.github.io/2024-08-07-50GS/
+
+There will be a series of pertinent talks until 3 followed by an
+optional networking session with light refreshments courtesy of
+the Software Sustainability Institute.
+
+Anyone who is involved with, or interested in, the development,
+use, support or management of research software is very welcome to
+attend.
+
+o 14:00 - Welcome
+          Chris Halcrow
+o 14:10 - Test-Driven Data Analysis, 
+          Nick Radcliffe, Stochastic Solutions
+o 14:30 - Self-driving vehicle initiative at UoE: Overview and dataset, 
+          Alejandro Bordallo, School of Informatics
+o 14:45 - Publishing data at the UoE, 
+          Mario Antonioletti, EPCC
+o 15:00 - Refreshments and networking
+o 16:00 - Close
+
+If anyone would like to volunteer a venue for a future meeting,
+would like to be involved in the organisation of such meetings or
+would like to speak at a future meeting then please get in touch.
+
+To get a number for catering requirements please register. Also
+note that we are limited to 60 attendees due to venue constraints.
+If you know you are not going to be able to attend please cancel
+your order so someone else can attend. Link:
+
+https://lu.ma/00jltzfp?tk=XBZeow
+
+Please circulate to anyone in the Edinburgh area who you think may be
+interested.
+
+Let me know if you have any questions,
