@@ -39,8 +39,8 @@ This is a provisional timetable.
 |14:00| Welcome, Chris Halcrow |
 |14:10| Test-Driven Data Analysis, Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |
 |14:30| Self-driving vehicle initiative at UoE: Overview and dataset, Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/) |
-|14:45| Publishing data at the UoE |
-|15:00| Refreshments and networking, Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |
+|14:45| Publishing data at the UoE, Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |
+|15:00| Refreshments and networking |
 |16:00| Close |
 
 Refreshments and networking are optional.
