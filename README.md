@@ -37,12 +37,14 @@ This is a provisional timetable.
 |Time  | Item |
 |------|:------ |
 |14:00| Welcome, Chris Halcrow |
-|14:10| Test-Driven Data Analysis, Nick Radcliffe, [Stochastic Solutions](https://stochasticsolutions.com/) |
+|14:10| TBD, Andre de Araujo Vieira, [Digital Research Services](https://digitalresearchservices.ed.ac.uk/) |
 |14:30| Self-driving vehicle initiative at UoE: Overview and dataset, Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/) |
 |14:45| Publishing data at the UoE, Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/) |
 |15:00| Refreshments and networking |
 |16:00| Close |
 
-Refreshments and networking are optional.
+Nick Radcliffe originally scheduled had to pull out for personal reasons. We hope he will be able to give his presentation at a future CERSE meeting.
+
+Refreshments provided courtesy of the [Software Sustainability Institue](https://software.ac.uk).
 
 If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
