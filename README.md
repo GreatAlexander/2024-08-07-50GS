@@ -36,7 +36,7 @@ This is a provisional timetable.
 
 |Time  | Item |
 |------|:------ |
-|14:00| Welcome, Chris Halcrow |
+|14:00| Welcome, Chris Halcrow. Slides: ([pdf](slides/Welcome_CERSE_11.pdf))|
 |14:10| Digital Research Services Support at all Stages of your Research Lifecycle, Andre de Araujo Vieira, [Digital Research Services](https://digitalresearchservices.ed.ac.uk/). Slides: ([pptx](slides/DRS_CERSE_Meeting.pptx)) ([pdf](slides/DRS_CERSE_Meeting.pdf)) |
 |14:30| Self-driving vehicle initiative at UoE: Overview and dataset, Alejandro Bordallo, [School of Informatics](https://informatics.ed.ac.uk/). Slides: ([pptx](slides/AV_CERSE_Meeting_07-08-24.pptx)) ([pdf](slides/AV_CERSE_Meeting_07-08-24.pdf)) |
 |14:45| Publishing data at the UoE, Mario Antonioletti, [EPCC](https://www.epcc.ed.ac.uk/). Slides: ([pptx](slides/CERSE_Storage.pptx)) ([pdf](slides/CERSE_Storage.pdf)) |
